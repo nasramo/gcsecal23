@@ -1,7 +1,7 @@
 .ee{
     font-size: 4px;
     font-family: Tahoma;
-} /*This is the beauty that makes my calendar look decent. Can't lie, I kinda want to see how it looks without all the CSS, but that would also be an abomination as one could guess.*/
+}
 .gone{
     opacity:0.45;
 }
