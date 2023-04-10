@@ -1,3 +1,4 @@
 # This is the GCSE calendar for 2023.
 ### What more is there to add?
 ### I don't reckon I need a licence because by uploading here anyone can use this. I appreciate credit though! :)
+For those who want to know what I use to make this, I used the Bootstrap 4 framework. There's some jquery but I suspect that comes with the BS4, and popper, which most likely is for the popovers. There is a later version but I felt like it wasn't well developed enough for me to use and there was wayyy more documentation on BS4 last year. This is mostly built w/ HTML and CSS, but the JS comes on account of me using popovers, which are very fun things to mess with. Those are the things which mean when you click on an exam, it comes up with details! Cool, eh? Bootstrap also means I can significantly reduces the CSS needed, which is already an obscene amount (~250 lines if I remember right)
