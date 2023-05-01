@@ -6,7 +6,4 @@ $(document).ready(function(){
 $('.popover-dismiss').popover({
   trigger: 'focus'
 });
-$(document).ready(function(){
-    $("#myModal").modal('show');
-});
 //This was the most annoying thing to mess with in my life. I ended up limiting my use of JS to what was necessary to allow popovers to function, and even those were actually copied from the BS docs.
