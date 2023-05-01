@@ -7,3 +7,4 @@ $('.popover-dismiss').popover({
   trigger: 'focus'
 });
 //This was the most annoying thing to mess with in my life. I ended up limiting my use of JS to what was necessary to allow popovers to function, and even those were actually copied from the BS docs.
+//The older JS I just removed was for the modal. I think it's safe to ditch since I don't particularly need that right now. Modal being the popup box where you have to confirm it.
